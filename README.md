@@ -1,4 +1,4 @@
-#the-effective-pancake-project
+effective-pancake
 HP Validity Fingerprint Reader support for linux
 Compatible devices:
 B0Y52EA, B0Y54EA, B0Y55EA, B0Y57EA, B0Y58EA, B0Y59EA, B0Y62EA, B0Y64EA, 
